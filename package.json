@@ -1,0 +1,22 @@
+{
+  "name": "dbfast",
+  "version": "1.0.0",
+  "description": "FastUptime Simple Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fastuptime",
+    "database",
+    "simple",
+    "fast",
+    "uptime"
+  ],
+  "author": "Can",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
